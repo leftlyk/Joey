@@ -71,6 +71,7 @@ body{
 }
 
 .content-container{
+    background-color: crimson;
     display: flex;
     flex-direction: column;
     justify-content: center;
